@@ -1,3 +1,5 @@
-### Canopy Games Wiki
+# Canopy Games Wiki
 
-# This is a placeholder at the moment whilst we explore using Github.
+### This is a placeholder at the moment whilst we explore using Github.
+
+Mor information to follow...
